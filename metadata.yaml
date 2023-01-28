@@ -8,6 +8,9 @@ contributor:
     deathdate: 1981
     gutenberg_agent_id: '35340'
     url: http://www.gutenberg.org/2009/agents/35340
+covers:
+- cover_type: archival
+  image_path: 69687-h/images/cover.jpg
 creator:
   author:
     agent_name: Samachson, Joseph
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33434
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Samachson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69687#Referent
 gutenberg_issued: '2023-01-02'
 identifiers:
   gutenberg: '69687'
